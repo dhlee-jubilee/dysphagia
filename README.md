@@ -1,4 +1,4 @@
-## "Online Learning for the Hyoid Bone Tracking during Swallowing with Neck Movement Adjustment using Semantic Segmentation"
+## "Online Learning for the Hyoid Bone Tracking during Swallowing with Neck Movement Adjustment using Semantic Segmentation." IEEE Access, 2020 (Under Review)
 
 
 ### (1) Online Learning for Tracking the Hyoid Bone
