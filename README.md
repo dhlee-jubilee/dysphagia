@@ -5,7 +5,7 @@
 
 - Single-Domain Network (SDnet) is modified version of Multi-Domain Network (MDNet)
 - [Official MDNet Paper & Code](https://github.com/hyeonseobnam/MDNet)
-- [Model Download (Performance: MatConvNet > PyTorch](https://drive.google.com/drive/folders/1f7FxJ6gDEn0woq3he2cu8TUQXZwA3G-4?usp=sharing)
+- [Model Download (Performance: MatConvNet > PyTorch)](https://drive.google.com/drive/folders/1f7FxJ6gDEn0woq3he2cu8TUQXZwA3G-4?usp=sharing)
 ---
 
 ### (2) Semantic Segmentation for the Hyoid Bone and Cervical Vertebrae
