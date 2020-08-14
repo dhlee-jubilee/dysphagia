@@ -15,8 +15,7 @@
 - [U-Net++ (Paper)](https://arxiv.org/abs/1807.10165)
 - [Attention U-Net (Paper)](https://arxiv.org/abs/1804.03999)
 - Prposed Method: Attention U-Net + Conditional Random Field (CRF)
-- [Conditional Random Field (Paper)](https://arxiv.org/abs/1210.5644)
-- [Conditional Random Field (Code)](https://github.com/lucasb-eyer/pydensecrf)
+- [Conditional Random Field (Paper)](https://arxiv.org/abs/1210.5644) [(Code)](https://github.com/lucasb-eyer/pydensecrf)
 ---
 
 ---
