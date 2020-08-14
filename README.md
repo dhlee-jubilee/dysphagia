@@ -11,7 +11,7 @@
 ### (2) Semantic Segmentation for the Hyoid Bone and Cervical Vertebrae
 
 - [U-Net (Paper)](https://arxiv.org/abs/1505.04597)
-- [U-Net-S (Paper)](http://www.gregslabaugh.net/publications/ArifMSKI-MICCAI2017.pdf)
+- [U-Net-s (Paper)](http://www.gregslabaugh.net/publications/ArifMSKI-MICCAI2017.pdf)
 - [U-Net++ (Paper)](https://arxiv.org/abs/1807.10165)
 - [Attention U-Net (Paper)](https://arxiv.org/abs/1804.03999)
 - Prposed Method: Attention U-Net + Conditional Random Field (CRF)
